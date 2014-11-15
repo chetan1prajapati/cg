@@ -1,4 +1,14 @@
 apply plugin: 'java'
+compileJava {
+        //enable compilation in a separate daemon process
+        options.fork = true
+
+        //enable incremental compilation
+        options.incremental = true
+    }
+
+
+
 apply plugin: 'eclipse'
 
 task initSourceFolders { // add << before { to prevent executing during configuration phase
