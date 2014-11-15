@@ -1,8 +1,14 @@
 //This is a test gradle file
 
+<<<<<<< HEAD
 1pro
 This is a test 2 from pro1
 pro2
 and test 3
+=======
+pro1
+Hello this is a test gradle file from pro
+pro2 or a test of the test of pro2
+>>>>>>> 12e8aa8b63e3858c043fb9882b5ee500b520e107
 pro2
 
