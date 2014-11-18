@@ -5,6 +5,7 @@ public class Main {
 
 		//comments
 		System.out.println("asdfasdf");
+		System.out.println();
 		System.out.println("This 1 is a test file100");
 	//comments more
 
