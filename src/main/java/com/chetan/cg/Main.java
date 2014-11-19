@@ -18,6 +18,6 @@ public class Main {
 	}
 
 	public void isNajus() {
-		System.out.println("This is Sujan.");
+		System.out.println("This is Sujan.asdfasdf");
 	}
 }
